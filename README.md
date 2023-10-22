@@ -6,7 +6,7 @@
    _*Cenário: Emitir orçamentos para a sua empresa*_
 
 #### Desenvolvendo as entradas de dados
-- __Descrição do Projeto_   
+- _Descrição do Projeto_   
 - _Total de horas estimadas_
 - _Valor da hora de trabalho_ 
 - _Prazo de entrega estimado_ 
