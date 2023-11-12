@@ -37,8 +37,9 @@ _ENGLISH LANGUAGE_
 
 <br>
 <br>
+
 # Python development
-    ### _Using Jupyter Notebook_
+ ### _Using Jupyter Notebook_
 
  _*Objective: Automatically generate PDFs with PYTHON*_
  
