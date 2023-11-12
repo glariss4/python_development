@@ -15,7 +15,7 @@
 - Utilizando a função _input()_
    
 #### Convertendo tipos de dados
--  _str_ para0 _int_
+-  _str_ para _int_
 - _int_ para _str_
    
 #### Criando  o cálculo do valor estimado
@@ -26,3 +26,42 @@
 - Criando um arquivo PDF
 - Inserindo os dados no PDF
  ### *Orçamento gerado*
+ 
+<br>
+<br>
+<br>
+<br>
+
+
+_ENGLISH LANGUAGE_
+
+<br>
+<br>
+# Python development
+    ### _Using Jupyter Notebook_
+
+ _*Objective: Automatically generate PDFs with PYTHON*_
+ 
+ _*Scenario: Issue quotes for your company*_
+
+#### Developing data entries
+- _Project description_
+- _Total estimated hours_
+- _Value of working hour_
+- _Estimated delivery time_
+   
+#### Receiving user data
+- Using the _input()_ function
+   
+#### Converting data types
+- _str_ to _int_
+- _int_ to _str_
+   
+#### Creating the estimated value calculation
+- _total_estimated_value = total estimated hours x value of working hour_
+
+#### Generating the PDF with the budget
+- Installing the _fpdf_ library
+- Creating a PDF file
+- Inserting data into PDF
+  ### *Budget generated*
